@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "God knows...",
+  "base_artist": "涼宮ハルヒ (CV.平野 綾)",
+  "createdAt": "2025-12-17T12:46:43.673600Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "God Knows I'm Good (2019 Mix)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_God_Knows_I'm_Good_(2019_Mix)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "God Knows I Tried",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/02_God_Knows_I_Tried_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "God Knows (You Gotta Give to Get)",
+      "artist": "El Perro del Mar",
+      "has_synced": true,
+      "path": "select/03_God_Knows_(You_Gotta_Give_to_Get)_El_Perro_del_Mar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We'll Never Sleep (God Knows We'll Try)",
+      "artist": "Rilo Kiley",
+      "has_synced": true,
+      "path": "select/04_We'll_Never_Sleep_(God_Knows_We'll_Try)_Rilo_Kiley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "God Knows I’m Good",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/05_God_Knows_I’m_Good_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "God Knows",
+      "artist": "Beatsteaks",
+      "has_synced": true,
+      "path": "select/06_God_Knows_Beatsteaks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "God Knows",
+      "artist": "Bob Dylan",
+      "has_synced": false,
+      "path": "select/07_God_Knows_Bob_Dylan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "God Knows",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/08_God_Knows_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "God Knows I'm Good - 2009 Remaster",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/09_God_Knows_I'm_Good_-_2009_Remaster_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "God Knows I'm Good - 2019 Mix",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/10_God_Knows_I'm_Good_-_2019_Mix_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "God knows…",
+      "artist": "Haruhi Suzumiya (Aya Hirano)",
+      "has_synced": false,
+      "path": "select/11_God_knows..._Haruhi_Suzumiya_(Aya_Hirano).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "God Knows",
+      "artist": "Haruhi Suzumiya",
+      "has_synced": false,
+      "path": "select/12_God_Knows_Haruhi_Suzumiya.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Only God Knows Why",
+      "artist": "Kid Rock",
+      "has_synced": true,
+      "path": "select/13_Only_God_Knows_Why_Kid_Rock.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "God Knows",
+      "artist": "Knocked Loose",
+      "has_synced": true,
+      "path": "select/14_God_Knows_Knocked_Loose.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "God Knows",
+      "artist": "Debby Boone",
+      "has_synced": false,
+      "path": "select/15_God_Knows_Debby_Boone.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "God Knows...",
+      "artist": "TOKINOSORA",
+      "has_synced": true,
+      "path": "select/16_God_Knows..._TOKINOSORA.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "God knows...",
+      "artist": "ときのそら",
+      "has_synced": true,
+      "path": "select/17_God_knows..._ときのそら.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "God Knows",
+      "artist": "Saga",
+      "has_synced": true,
+      "path": "select/18_God_Knows_Saga.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "God Knows",
+      "artist": "Debby Boone",
+      "has_synced": true,
+      "path": "select/19_God_Knows_Debby_Boone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "God knows...",
+      "artist": "涼宮ハルヒ(CV.平野綾)",
+      "has_synced": false,
+      "path": "select/pl_01_God_knows..._涼宮ハルヒ(CV.平野綾).txt"
+    }
+  ]
+}
